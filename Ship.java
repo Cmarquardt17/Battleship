@@ -7,7 +7,6 @@ public class Ship {
         this.name = name;
         this.lives = lives;
         this.letterType = letterType;
-
     }
 
     public String[][] populateBoardWithShip(String[][] board, Ship ship) {
